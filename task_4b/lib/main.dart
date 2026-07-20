@@ -31,7 +31,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Home Screen"),
+        title: const Text("Home Screen(24WH1A05B0_AkshayaReddy)"),
         backgroundColor: Colors.blue,
       ),
       body: Center(
@@ -55,7 +55,7 @@ class SecondScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Second Screen"),
+        title: const Text("Second Screen(24WH1A05B0_AkshayaReddy)"),
         backgroundColor: Colors.green,
       ),
       body: Center(
